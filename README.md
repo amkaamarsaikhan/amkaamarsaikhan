@@ -19,7 +19,7 @@ I bridge the gap between **Physical Infrastructure** and **Digital Solutions**. 
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amkaamarsaikhan&show_icons=true&theme=radical&hide_border=true" alt="Amka's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkaamarsaikhan&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
